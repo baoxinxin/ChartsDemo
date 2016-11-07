@@ -8,6 +8,7 @@ s.summary = "The package of ChartsDemo"
 
 s.homepage = "https://github.com/baoxin"
 
+s.swift-version = "2.3"
 
 s.platform = :ios, "8.0"
 
